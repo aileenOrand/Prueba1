@@ -1,6 +1,7 @@
 tigre
 gato
 tortuga
-
+coyote
+rata0
 rata2
 mono
