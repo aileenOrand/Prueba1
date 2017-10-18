@@ -2,5 +2,5 @@ tigre
 gato
 tortuga
 
-rata3
+rata
 mono
